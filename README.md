@@ -1,24 +1,11 @@
-## Hi there 👋
-
 <!--
-**ihoooman/ihoooman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**ihoooman/ihoooman** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
 <h1 align="center">Hey, I'm Hooman 👋</h1>
 
 <p align="center">
-  🧠 Architect turned Tech Explorer • 💻 Junior Django Dev in progress • 🧢 AI Lover
+  🧠 Architect turned Tech Explorer • 💻 Junior Django Dev • 🧢 AI Lover
 </p>
 
 ---
@@ -27,44 +14,43 @@ Here are some ideas to get you started:
 
 - 🏙️ Based in Tehran  
 - 🧱 Studied Architecture, passionate about Brutalism  
-- 💡 Into AI, Web Dev & Tech Evolution   
-- 🐍 Learning Python & Django  
-- 🍎 Mac & Apple ecosystem lover
+- 💡 Into AI, Web Dev & Tech Evolution  
+- 🐍 Proficient in Python & Django  
+- 🍎 Mac & Apple ecosystem lover  
 
 ---
 
 ### 🔧 Currently Working On
 
-- Building Django projects using PyCharm Pro  
-- Learning full GitHub workflow
-- Creating personal tools with Python & automation
+- 🚀 Building **[DemoProject](https://github.com/ihoooman/demoproject)** with Django & PyCharm Pro  
+- 🎯 Mastering full GitHub workflow & CI/CD  
+- 🤖 Crafting personal automation tools in Python  
 
 ---
 
 ### 💬 Ask Me About
 
-- Anything architecture, minimal tattoos or Apple tech  
+- Architecture, web development & AI integration  
 - Switching careers into tech  
-- Posture & productivity tips for solo workers
+- Posture & productivity tips for solo work  
 
 ---
 
 ### 🌱 Fun Facts
 
 - 📱 Favorite pastime: tech blogs + Insta scrolls  
-- ☕ One-meal-a-day champ  
+- ☕ One-meal-a-day enthusiast  
 - 🎮 Enjoys chill games & deep convos  
 
 ---
-
-### 📫 Reach Me
-
-- 🐙 [GitHub](https://github.com/ihoooman)
-- 📷 [Instagram](https://instagram.com/hoomanmdd)
-- 🧠 Thinking about starting a blog soon...
-
----
+### 📫 Connect with Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,git,github,vscode,html,css,md&perline=8" />
+  <a href="https://github.com/ihoooman"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hoomanmdd/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/hoomanmdd"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="http://hoooman.me/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-hoooman.me-4A72B4?style=flat&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+<p align="center">
 </p>
