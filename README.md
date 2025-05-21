@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Hooman 👋</h1>
 
 <p align="center">
-  🧠 Architect turned Tech Explorer • 💻 Junior Django Dev • 🧢 AI Lover
+  🧠 Architect turned Tech Explorer • 💻 Junior Django Developer • 🧢 AI Lover
 </p>
 
 ---
